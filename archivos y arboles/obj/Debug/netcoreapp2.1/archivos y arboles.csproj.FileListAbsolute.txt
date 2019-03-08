@@ -1,0 +1,6 @@
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\archivos y arboles\obj\Debug\netcoreapp2.1\archivos y arboles.csprojAssemblyReference.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\archivos y arboles\obj\Debug\netcoreapp2.1\archivos y arboles.csproj.CoreCompileInputs.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\archivos y arboles\obj\Debug\netcoreapp2.1\archivos y arboles.RazorAssemblyInfo.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\archivos y arboles\obj\Debug\netcoreapp2.1\archivos y arboles.RazorAssemblyInfo.cs
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\archivos y arboles\obj\Debug\netcoreapp2.1\archivos y arboles.AssemblyInfoInputs.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\archivos y arboles\obj\Debug\netcoreapp2.1\archivos y arboles.AssemblyInfo.cs

@@ -1,0 +1,2 @@
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\ArbolBinario\obj\Debug\ArbolBinario.csprojAssemblyReference.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estructura de datos 1\LAB\archivos y arboles\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
